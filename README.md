@@ -19,6 +19,6 @@ pip install babel matplotlib seaborn
 
 ## Run Streamlit App
 ```
-streamlit run dashboard.py
+streamlit run Dashboard/dashboard.py
 ```
 
