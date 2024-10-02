@@ -7,7 +7,7 @@ sns.set(style='dark')
 
 
 # Load cleaned data
-all_df = pd.read_csv("./dashboard/main-data-df.csv")
+all_df = pd.read_csv("./Dashboard/main-data-df.csv")
 
 # Menyesuaikan tipe data datetime
 all_df['datetime'] = pd.to_datetime(all_df['datetime'])
