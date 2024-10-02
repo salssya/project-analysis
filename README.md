@@ -6,8 +6,8 @@ python -m venv .venv
 ```
 ## Activate Environment - Shell/Terminal
 ```
-.venv\Scripts\activate.bat #Windows command prompt
-.venv\Scripts\Activate.ps1 #Windows PowerShell
+.venv\Scripts\activate.bat #windows command prompt
+.venv\Scripts\Activate.ps1 #windows PowerShell
 source .venv/bin/activate #macOS and Linux
 ```
 ## Install Dependencies
